@@ -1,7 +1,4 @@
 - 👋 Hi, I’m vinayak
-- 👀 I’m interested in back-end
-- 🌱 I’m currently learning java,python
-- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me 
 mail: vinayak4x@gmail.com
 <!---
